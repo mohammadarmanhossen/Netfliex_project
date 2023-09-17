@@ -1,0 +1,240 @@
+*{
+    margin:0%;
+    padding:0%;
+    box-sizing:border-box;
+    color: azure;
+}
+.main{
+    height: 800px;
+    width: 100%;
+    background-image: url(imges/hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar{
+    background-color: rgba(0, 0, 0, 0.651);
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+}
+.netflix{
+    background-image: url(imges/NETFLIX.png);
+    height: 160px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin:10px 200px;
+    padding:40px 60px;
+}
+.btn{
+    height: 80px;
+    width: 150px;
+    margin:10px 200px; 
+    padding: 20px;
+    
+}
+.btn button{
+ font-size: 20px;
+ padding: 10px 15px;
+ background-color: red;
+ border: none;
+ outline: none;
+ border-radius: 5px;
+}
+button:hover{
+    background-color: chartreuse;
+    color: red;
+}
+.continer{
+    height: 700px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.651);
+    display:inline-block;
+    justify-content: center;
+    text-align: center;
+}
+.continer h1{
+    margin-top: 200px;
+    padding: 15px;
+    font-size: 40px;
+}
+.continer h3{
+    
+    padding:12px;
+    font-size: 30px;
+}
+
+.continer p{
+    padding:10px;
+    font-size:20px;
+}
+
+.continer input{
+    background-color: rgba(23, 24, 23, 0.664);
+    padding:15px 55px;
+    font-weight: 400;
+    outline: none;
+    border:0.1px solid gainsboro;
+    border-radius: 5px;
+    font-size: 20px;
+}
+input:hover{
+    border: 3px solid #fff;
+
+}
+.continer button{
+    background-color: rgb(219, 2, 2);
+    padding:15px 55px;
+    font-weight: 400;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+}
+button:hover{
+    background-color: blueviolet;
+}
+.div1{
+    height:500px;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    border-top:8px solid rgb(53, 46, 46);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.content1{  
+
+
+    width: 600px;
+    margin-right: 400px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+
+}
+.imag1 img{ 
+    height: 450px;
+    width: 600px;
+    background-position: center;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+.div2{
+    height: 500px;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    border-top: 8px solid rgb(53, 46, 46);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.content2{  
+
+
+    width: 600px;
+    margin-right: 400px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+
+}
+.imag2 img{ 
+    height: 350px;
+    width: 500px;
+    background-color: rgb(0, 4, 255);
+    background-position: center;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+
+.div3{
+    height: 500px;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    border-top: 8px solid rgb(53, 46, 46);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.content3{  
+
+
+    width: 600px;
+    margin-right: 400px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+
+}
+.imag3 img{ 
+    height: 450px;
+    width: 600px;
+    background-position: center;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+.div4{
+    height: 500px;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    border-top: 8px solid rgb(53, 46, 46);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.content4{  
+
+
+    width: 600px;
+    margin-right: 400px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+
+}
+.imag4 img{ 
+    height: 450px;
+    width: 600px;
+    background-position: center;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+
+.div6{
+    height: 800px;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    border-top: 8px solid rgb(53, 46, 46);
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 100px;
+}
+.content6 ul li {
+    text-decoration: none;
+    list-style: none;
+    font-weight: 400;
+    font-size: 15px;
+
+}
+.content6 h1{
+    color: darkorange;
+}
+.header h1{
+    font-size: 50px;
+    color: green;
+}
+.footer h3{
+    font-size: 50px;
+    color: red;
+}
+
+
